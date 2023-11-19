@@ -11,15 +11,15 @@ Welcome to my internship repository at CodSoft! This repository documents my jou
 ## Projects
 ### Project 1: Password Generator
 - Description: Getting password length from user to generate password.
-- Code: Link to the project's code or a folder containing the code.
+- Code: CodSoft_task1.ipynb
 
 ### Project 2: Calculator
 - Description: Getting inputs from user to perform basic math calculations .
-- Code: Link to the project's code or a folder containing the code.
+- Code: CodSoft_task2.ipynb.
 
 ### Project 3: Rock Paper Scissor
 - Description: Getting inputs from user to play rock_paper_scissor .
-- Code: Link to the project's code or a folder containing the code.
+- Code: CodSoft_task3.ipynb.
 
 ## Skills
 During my internship, I am enhancing my skills in Python programming. Some of the key areas include:
