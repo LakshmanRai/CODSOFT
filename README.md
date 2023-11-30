@@ -21,6 +21,14 @@ Welcome to my internship repository at CodSoft! This repository documents my jou
 - Description: Getting inputs from user to play rock_paper_scissor .
 - Code: CodSoft_task3.ipynb.
 
+### Project 4: Contact List
+- Description: Getting inputs from user to store, view, delete contacts.
+- Code: CodSoft_task4.ipynb.
+
+### Project 5: To-Do list
+- Description: Getting inputs from user to store a list of activity to-do, view, delete.
+- Code: CodSoft_task5.ipynb.
+
 ## Skills
 During my internship, I am enhancing my skills in Python programming. Some of the key areas include:
 - **Libraries**: Using libraries like Pandas, Random, String, Colorama, tkinter.
